@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elalfy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Super Mate**
-
 - 🌱 I’m currently learning **React and Redux**
 
 - 💬 Ask me about **React, Redux and Redux toolkit**
